@@ -1,0 +1,52 @@
+body {
+    background: url(wutangsingal.gif);
+}
+
+
+.styleButton{
+	background-color:#ffec64;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family: 'Bebas Neue', cursive;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+}
+.styleButton:hover {
+	background-color:#ffab23;
+}
+.styleButton:active {
+	position:relative;
+	top:1px;
+}
+
+/* codepen
+ */
+
+
+
+ label {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+span {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+}
+
+h1 {
+    color: #ffab23;
+    font-family: 'Bebas Neue', cursive;
+}
+
+h3 {
+    color: #ffab23;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2rem;
+}
